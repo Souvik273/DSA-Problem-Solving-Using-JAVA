@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
