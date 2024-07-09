@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
