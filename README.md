@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
