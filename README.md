@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -114,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
