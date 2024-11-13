@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
