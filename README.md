@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
