@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
