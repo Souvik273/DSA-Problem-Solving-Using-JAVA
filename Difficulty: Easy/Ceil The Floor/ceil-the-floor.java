@@ -18,11 +18,17 @@ public class Main {
             Solution ob = new Solution();
             int[] ans = ob.getFloorAndCeil(x, arr);
             System.out.println(ans[0] + " " + ans[1]);
-        }
+        
+System.out.println("~");
+}
     }
 }
 
 // } Driver Code Ends
+
+
+// User function Template for Java
+
 
 
 // User function Template for Java
