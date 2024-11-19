@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
