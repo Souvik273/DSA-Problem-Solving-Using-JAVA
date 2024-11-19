@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
