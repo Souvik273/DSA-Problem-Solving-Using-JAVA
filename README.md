@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0745-find-smallest-letter-greater-than-target) |
