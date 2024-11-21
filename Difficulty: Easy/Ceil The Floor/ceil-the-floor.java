@@ -29,45 +29,36 @@ System.out.println("~");
 
 // User function Template for Java
 
-
-
-// User function Template for Java
-
 class Solution {
-    public int[] getFloorAndCeil(int x, int[] arr) {
-        // code here
-        int low = 0 , high = arr.length-1;
+    public int[] getFloorAndCeil(int k, int[] arr) {
+        // Sort the array to enable binary search
         Arrays.sort(arr);
-        int floor = Floor(arr,x,low,high) ;
-        int ceil = Ceil(arr,x,low,high)  ;
-        return new int[]{floor,ceil};
-    }
-    public int Floor(int []a,int k , int low , int high){
-        int ans = -1;
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(a[mid]<=k){
-                ans = a[mid];
-                low=mid+1;
-            }
-            else if(a[mid]>k){
-                high=mid-1;
-            }
-        }
-        return ans;
-    }
-     public int Ceil(int []a,int k , int low , int high){
-        int ans = -1;
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(a[mid]>=k){
-                ans = a[mid];
-                high=mid-1;
-            }
-            else if(a[mid]<k){
-                low=mid+1;
+        int n = arr.length;
+
+        // Initialize floor and ceil values
+        int floor = -1;
+        int ceil = -1;
+
+        // Binary search to find floor and ceil
+        int low = 0, high = n - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] == k) {
+                // If element equals k, both floor and ceil are k
+                return new int[]{arr[mid], arr[mid]};
+            } else if (arr[mid] < k) {
+                // Update floor and move to the right half
+                floor = arr[mid];
+                low = mid + 1;
+            } else {
+                // Update ceil and move to the left half
+                ceil = arr[mid];
+                high = mid - 1;
             }
         }
-        return ans;
+
+        // Return the computed floor and ceil values
+        return new int[]{floor, ceil};
     }
 }
