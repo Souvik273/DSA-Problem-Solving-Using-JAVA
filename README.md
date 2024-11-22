@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1185-find-in-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1185-find-in-mountain-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1755-defuse-the-bomb) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Database
 |  |
