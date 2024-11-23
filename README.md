@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Database
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
+| [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
