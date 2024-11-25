@@ -219,4 +219,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
