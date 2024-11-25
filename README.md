@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
