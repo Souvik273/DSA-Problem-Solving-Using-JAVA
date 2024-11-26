@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1185-find-in-mountain-array) |
 ## Simulation
 |  |
