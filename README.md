@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2580-circular-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2580-circular-sentence) |
 ## Sliding Window
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
 ## Sorting
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
