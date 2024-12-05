@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
