@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1972-rotating-the-box](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1972-rotating-the-box) |
+| [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
+| [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 ## Interactive
 |  |
 | ------- |
