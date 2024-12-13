@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0239-sliding-window-maximum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
