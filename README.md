@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0268-missing-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
