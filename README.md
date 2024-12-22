@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0937-online-stock-span) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Data Stream
 |  |
 | ------- |
@@ -306,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2300-construct-string-with-repeat-limit) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
