@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Stack
 |  |
 | ------- |
@@ -319,4 +320,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Tree
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
