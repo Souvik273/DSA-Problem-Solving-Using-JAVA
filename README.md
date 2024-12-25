@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0787-sliding-puzzle) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Stack
@@ -323,13 +324,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
