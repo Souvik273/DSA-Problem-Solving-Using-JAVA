@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 ## Interactive
 |  |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
