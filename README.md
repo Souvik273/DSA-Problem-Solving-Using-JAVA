@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0940-fruit-into-baskets) |
+| [1063-best-sightseeing-pair](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1185-find-in-mountain-array](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Souvik273/DSA-Problem-Solving-Using-JAVA/tree/master/2164-two-best-non-overlapping-events) |
 ## Interactive
 |  |
